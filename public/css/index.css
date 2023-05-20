@@ -51,7 +51,6 @@
   font-family: 'Open Sans', sans-serif;
   font-display: swap;
   font-weight: bold;
-  font-weight: 700;
 }
 
 /*завдання 5*/
@@ -130,7 +129,7 @@
 /*завдання 9*/
 
 .task_9 h1 {
-  overflow-wrap: break-word;
+  overflow-wrap: normal;
   word-spacing: 30px;
 }
 
